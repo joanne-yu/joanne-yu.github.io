@@ -15,6 +15,7 @@ HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorl
 * CSS & Javascript
 1. 更換頁面與字體的顏色
 2. 改寫了 skills 中 Computer skills 圓圈的百分比以及線條的比例和跑的速度
+3. 修改個人經驗中的照片大小與位置
 
 ## 聲明
 老師及助教好，我做到一半才發現我使用的模板與老師給的範例使用的是同一個😭，但是我完全沒有抄襲跟參考，並不是故意挑同一個模板去做...

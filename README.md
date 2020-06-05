@@ -11,6 +11,7 @@ HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorl
 5. 新增了多個分頁來說明我的個別經驗
 6. 更改個別經驗中圖片排版及新增圖片
 7. 在 Home 中的 View My Experiences 新增href 使使用者可以直接跳到 Experiences分頁
+8. 將每頁左上角的小方格改成我自己的名字
 
 * CSS & Javascript
 1. 更換頁面與字體的顏色

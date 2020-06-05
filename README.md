@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 前端程式設計 作業三－個人履歷 （外文三 余知芸 B06102030）
 
-You can use the [editor on GitHub](https://github.com/joanne-yu/joanne-yu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Reference
+HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorlib](https://colorlib.com/wp/template/noah/)
+## Techniques used 
+* HTML
+1. 修改分頁檔名與形式成與自己想要的較相符
+2. 在 每一頁下方的send an email 及 Contact 中的email 加上href 使使用者在按下按鈕時就可以直接跳到寄信畫面
+3. 在 experiences 中的圖片及view details新增href 以跳到個別經驗頁面
+4. 在每一頁的下方新增href，插入自己的臉書連結
+5. 新增了多個分頁來說明我的個別經驗
+6. 更改個別經驗中圖片排版及新增圖片
+7. 在 Home 中的 View My Experiences 新增href 使使用者可以直接跳到 Experiences分頁
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* CSS & Javascript
+1. 更換頁面與字體的顏色
+2. 改寫了 skills 中 Computer skills 圓圈的百分比以及線條的比例和跑的速度
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joanne-yu/joanne-yu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 聲明
+老師及助教好，我做到一半才發現我使用的模板與老師給的範例使用的是同一個😭，但是我完全沒有抄襲跟參考，並不是故意挑同一個模板去做...

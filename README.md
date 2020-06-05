@@ -5,8 +5,8 @@ HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorl
 ## Techniques used 
 * HTML
 1. 修改分頁檔名與形式成與自己想要的較相符
-2. 在 每一頁下方的send an email 及 Contact 中的email 加上href 使使用者在按下按鈕時就可以直接跳到寄信畫面
-3. 在 experiences 中的圖片及view details新增href 以跳到個別經驗頁面
+2. 在 每一頁下方的Send an Email 及 Contact 中的email 加上href 使使用者在按下按鈕時就可以直接跳到寄信畫面
+3. 在 Experiences 中的圖片及View details新增href 以跳到個別經驗頁面
 4. 在每一頁的下方新增href，插入自己的臉書連結
 5. 新增了多個分頁來說明我的個別經驗
 6. 更改個別經驗中圖片排版及新增圖片
@@ -14,7 +14,7 @@ HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorl
 
 * CSS & Javascript
 1. 更換頁面與字體的顏色
-2. 改寫了 skills 中 Computer skills 圓圈的百分比以及線條的比例和跑的速度
+2. 改寫了 Skills 中 Computer skills 圓圈的百分比以及線條的比例和跑的速度
 3. 修改個人經驗中的照片大小與位置
 
 ## 聲明

@@ -1,23 +1,24 @@
 ## 前端程式設計 期末－個人履歷 （外文三 余知芸 B06102030）
 
 ## Reference
-HTML & Bootstrap website template source: [Noah - Landing Page Template - Colorlib](https://colorlib.com/wp/template/noah/)
+HTML & Bootstrap website template source: [Fashe - Colorlib](https://colorlib.com/wp/template/fashe/)
 ## Techniques used 
 * HTML
-1. 修改分頁檔名與形式成與自己想要的較相符
-2. 在 每一頁下方的Send an Email 及 Contact 中的email 加上href 使使用者在按下按鈕時就可以直接跳到寄信畫面
-3. 在 Experiences 中的圖片及View details新增href 以跳到個別經驗頁面
-4. 在每一頁的下方新增href，插入自己的臉書連結
-5. 新增了多個分頁來說明我的個別經驗
-6. 更改個別經驗中圖片排版及新增圖片
-7. 在 Home 中的 View My Experiences 新增href 使使用者可以直接跳到 Experiences分頁
-8. 將每頁左上角的小方格改成我自己的名字
+1. 將原本參考的模板進行大幅修改
+2. 將每一個選項做成獨立的分頁
+在 每一頁下方的Send an Email 及 Contact 中的email 加上href 使使用者在按下按鈕時就可以直接跳到寄信畫面
+3. 在數字分頁中的圖片皆中新增href使用者可以直接點選進入google maps
+4. 在每一頁的下方的copyright中，在Joanne Yu新增了作業三個人履歷的連結
+5. 數字分頁中皆插入店家資訊及店家網頁連結
+6. 滑鼠移到圖片上面可顯示提示文字
 
-* CSS & Javascript
-1. 更換頁面與字體的顏色
-2. 改寫了 Skills 中 Computer skills 圓圈的百分比以及線條的比例和跑的速度
-3. 修改個人經驗中的照片大小與位置
+* CSS
+1. 更換頁面與字體的大小及顏色
+2. 新增及修改圖片的數量與大小
 
-## 聲明
-老師及助教好，我做到一半才發現我使用的模板與老師給的範例使用的是同一個😭，但是我完全沒有抄襲跟參考，並不是故意挑同一個模板去做...
+* Javascript
+1. 透過math.js來寫篩選數字分頁的公式
+2. 依據種12分類（地點3個，餐飲類別4個）去分別寫入不同的js去做篩選
+
+
 
